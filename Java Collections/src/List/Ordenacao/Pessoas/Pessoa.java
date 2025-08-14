@@ -1,4 +1,4 @@
-package List;
+package List.Ordenacao.Pessoas;
 //A interface Comparable esta no dentro do pacote java.lang.
 import java.lang.*;
 

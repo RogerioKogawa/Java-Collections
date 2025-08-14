@@ -1,4 +1,4 @@
-import List.*;
+import List.Ordenacao.Pessoas.OrdenacaoPessoas;
 
 public class Main {
     public static void main(String[] args) {
