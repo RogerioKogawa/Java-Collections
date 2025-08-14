@@ -28,6 +28,10 @@ public class OrdenacaoPessoas{
         Collections.sort(pessoas);
     }
 
+    public void ordenarPorAltura(){
+        Collections.sort(pessoas, new CompararAltura());
+    }
+
 
     @Override
     public String toString() {
